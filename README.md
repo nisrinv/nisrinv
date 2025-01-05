@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Nisrina! 👩🏻‍💻✨
 
-<!--
-**nisrinv/nisrinv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Graduate | Universiti Malaysia Perlis (UniMAP) <br/>
+🤖 Tech Enthusiast & AI Explorer | Passionate about transforming ideas into intelligent solutions<br/>
 
-Here are some ideas to get you started:
+🌟 A Bit About Me<br/>
+🧠 I love exploring cutting-edge AI technologies and solving problems with deep learning<br/>
+🌐 Experienced in web development, programming, and creating real-world AI applications<br/>
+🌍 Active participant in exchange programs, workshops, and tech communities<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Let's Connect!<br/>
+📧 Email: nisrinatanjung11@gmail.com<br/>
+🌐 LinkedIn: https://www.linkedin.com/in/siti-nisrina/<br/>
