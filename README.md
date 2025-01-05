@@ -1,5 +1,7 @@
 
-![Header](./github-header-image.png)
+![Header](./header.gif)
+
+<h2>Hello, I'm Nisrina👋🏻 </h2>
 
 🎓 Computer Engineering Graduate | Universiti Malaysia Perlis (UniMAP) <br/>
 🤖 Tech Enthusiast & AI Explorer | Passionate about transforming ideas into intelligent solutions<br/>
