@@ -6,7 +6,7 @@
 🎓 Computer Engineering Graduate | Universiti Malaysia Perlis (UniMAP) <br/>
 🤖 Tech Enthusiast & AI Explorer | Passionate about transforming ideas into intelligent solutions<br/>
 
-<img align="right" alt="Coding" width="290" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="Coding" width="290" src="https://i.pinimg.com/originals/3c/2a/ad/3c2aad38e743710b31103fe2a410f734.gif">
 
 <h3>A Bit About Me</h3>
 🌍 Active participant in exchange programs, workshops, and tech communities<br/>
