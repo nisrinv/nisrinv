@@ -9,5 +9,5 @@
 🌍 Active participant in exchange programs, workshops, and tech communities<br/>
 
 📬 Let's Connect!<br/>
-📧 Email: nisrinatanjung11@gmail.com<br/>
-🌐 LinkedIn: https://www.linkedin.com/in/siti-nisrina/<br/>
+📧 [Email](nisrinatanjung11@gmail.com)<br/>
+🌐 [LinkedIn](https://www.linkedin.com/in/siti-nisrina/)<br/>
