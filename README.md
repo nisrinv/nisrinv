@@ -6,12 +6,11 @@
 
 <img align="right" alt="Coding" width="290" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
-<h3>🌟 A Bit About Me</h3>
-🧠 I love exploring cutting-edge AI technologies and solving problems with deep learning<br/>
-🌐 Experienced in web development, programming, and creating real-world AI applications<br/>
+<h3>A Bit About Me</h3>
 🌍 Active participant in exchange programs, workshops, and tech communities<br/>
+😁 Fun fact : I love music and cats !
 
-<h3>📬 Let's Connect!</h3>
+<h3>Let's Connect!</h3>
 
 📧 [Email](nisrinatanjung11@gmail.com)<br/>
 🌐 [LinkedIn](https://www.linkedin.com/in/siti-nisrina/)<br/>
