@@ -1,4 +1,4 @@
-## Hi there, I'm Nisrina! 👩🏻‍💻✨
+## Hi there, I'm Nisrina! (๑>◡<๑)
 
 🎓 Computer Engineering Graduate | Universiti Malaysia Perlis (UniMAP) <br/>
 🤖 Tech Enthusiast & AI Explorer | Passionate about transforming ideas into intelligent solutions<br/>
