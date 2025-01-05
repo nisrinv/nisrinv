@@ -1,7 +1,13 @@
+
+![Header](./header_nisrina.png)
+
 ## Hi there, I'm Nisrina! (๑>◡<๑)
+
 
 🎓 Computer Engineering Graduate | Universiti Malaysia Perlis (UniMAP) <br/>
 🤖 Tech Enthusiast & AI Explorer | Passionate about transforming ideas into intelligent solutions<br/>
+
+<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <h3>🌟 A Bit About Me</h3>
 🧠 I love exploring cutting-edge AI technologies and solving problems with deep learning<br/>
