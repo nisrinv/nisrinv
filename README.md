@@ -1,7 +1,7 @@
 
 ![Header](./header.gif)
 
-<h2>Hello, I'm Nisrina👋🏻 </h2>
+<h1>Hello, I'm Nisrina👋🏻 </h1>
 
 🎓 Computer Engineering Graduate | Universiti Malaysia Perlis (UniMAP) <br/>
 🤖 Tech Enthusiast & AI Explorer | Passionate about transforming ideas into intelligent solutions<br/>
