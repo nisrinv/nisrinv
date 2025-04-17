@@ -3,7 +3,7 @@
 
 <h1>Hello, I'm Nisrina👋🏻 </h1>
 
-🎓 Computer Engineering Graduate | Universiti Malaysia Perlis (UniMAP) <br/>
+🎓 Computer Engineering | Graduate Engineer, Board of Engineers Malaysia (BEM) <br/>
 🤖 Tech Enthusiast & AI Explorer | Passionate about transforming ideas into intelligent solutions<br/>
 
 <h3>A Bit About Me</h3>
