@@ -3,8 +3,8 @@
 
 <h1>Hello, I'm Nisrina👋🏻 </h1>
 
-🎓 Computer Engineering | Graduate Engineer, Board of Engineers Malaysia (BEM) <br/>
-🤖 Tech Enthusiast & AI Explorer | Passionate about transforming ideas into intelligent solutions<br/>
+🎓 Msc | B.Eng | Computer Engineering | Graduate Engineer, Board of Engineers Malaysia (BEM) <br/>
+🤖 Tech Enthusiast & AI Explorer
 
 <h3>Let's Connect!</h3>
 
