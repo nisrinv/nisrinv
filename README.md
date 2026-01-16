@@ -6,10 +6,6 @@
 🎓 Computer Engineering | Graduate Engineer, Board of Engineers Malaysia (BEM) <br/>
 🤖 Tech Enthusiast & AI Explorer | Passionate about transforming ideas into intelligent solutions<br/>
 
-<h3>A Bit About Me</h3>
-🌍 Active participant in exchange programs, workshops, and tech communities<br/>
-😸 Fun fact : I love music and cats !
-
 <h3>Let's Connect!</h3>
 
 📧 [Email](nisrinatanjung11@gmail.com)<br/>
