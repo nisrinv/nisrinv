@@ -2,12 +2,13 @@
 ![Header](./header.gif)
 
 <h1>Hello, I'm Nisrina👋🏻 </h1>
+<h1>こんにちは, ニスリナです👋🏻 </h1>
 
 <h3>About me</h3
                     
 🎓 Msc | B.Eng | Computer Engineering | Graduate Engineer, Board of Engineers Malaysia (BEM) <br/>
 🤖 Tech Enthusiast & AI Explorer
-
+😼 猫がめっちゃ好き
 
 <h3>Languages and Tools I Use</h2>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
