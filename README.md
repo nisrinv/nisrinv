@@ -5,7 +5,7 @@
 
 <h3>About me</h3
                     
-🎓 Msc | B.Eng | Computer Engineering | Graduate Engineer, Board of Engineers Malaysia (BEM) <br/>
+🎓 Msc | B.Eng | Computer Engineering <br/>
 🤖 Tech Enthusiast & AI Explorer　<br/>
 😼 猫がめっちゃ好き <br/>
 
