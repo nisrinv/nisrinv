@@ -8,11 +8,6 @@
 🎓 Msc | B.Eng | Computer Engineering | Graduate Engineer, Board of Engineers Malaysia (BEM) <br/>
 🤖 Tech Enthusiast & AI Explorer
 
-<h3>Let's Connect!</h3>
-
-📧 [Email](nisrinatanjung11@gmail.com)<br/>
-🌐 [LinkedIn](https://www.linkedin.com/in/siti-nisrina/)<br/>
-
 
 <h3>Languages and Tools I Use</h2>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
