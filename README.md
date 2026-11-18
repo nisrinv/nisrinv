@@ -7,7 +7,10 @@
                     
 🎓 Msc | B.Eng | Computer Engineering | Graduate Engineer, Board of Engineers Malaysia (BEM) <br/>
 🤖 Tech Enthusiast & AI Explorer　<br/>
-😼 猫がめっちゃ好き
+😼 猫がめっちゃ好き <br/>
+
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/d44ed791-08e0-4d68-9ef7-dbaba3a91c96" />
+
 
 <h3>Languages and Tools I Use</h2>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
